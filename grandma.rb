@@ -25,12 +25,10 @@ def speak_to_grandma(phrase)
   # If phrase IS not uppercase (or is anything else), then...
   else
     return "HUH?! SPEAK UP, SONNY!"
-  
-  #
-  elsif
-    
 
   end
+
+
 
 
 end
