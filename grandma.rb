@@ -32,6 +32,6 @@ end
 
 # TEST CODE
 
-puts speak_to_grandma("I LOVE YOU GRANDMA!")
+puts speak_to_grandma("CAN YOU HEAR ME?")
 
 
