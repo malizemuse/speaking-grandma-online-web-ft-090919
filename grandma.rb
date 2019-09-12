@@ -30,8 +30,4 @@ end
 
 end
 
-# TEST CODE
-
-puts speak_to_grandma("Can you hear me?")
-
 
