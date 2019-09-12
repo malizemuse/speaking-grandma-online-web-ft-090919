@@ -20,7 +20,7 @@ def speak_to_grandma(phrase)
     
   # If phrase is ALL UPPERCASE
   elsif phrase == phrase.upcase
-    return "NO, NOt SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
     
   # If phrase IS not uppercase (or is anything else), then...
   else
